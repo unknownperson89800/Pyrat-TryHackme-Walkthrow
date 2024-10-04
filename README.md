@@ -1,4 +1,4 @@
-# TryHackMe: Thompson
+# TryHackMe: Pyrat
 
 ---
 
